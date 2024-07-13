@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(137, 146, 225);
+    /* border: 7px dashed yellowgreen; */
+    cursor: cell;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    background-image: url(assets/yellow.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+     
+}
+
+h1 {
+    position: absolute;
+    text-align: left;
+    top: 10px;
+    left: 20px;
+  }
+
+  
+/* p {
+    text-align: right;
+} */
+
+
+.text1 {
+    position: absolute;
+    text-align: left;
+    top: 90px;
+    left: 520px;
+}
+.text2 {
+    position: absolute;
+    font-family: bold;
+    font-size: 23px;
+    text-align: left;
+    top: 600px;
+    left: 620px;
+}
+
+.text3 {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: left;
+    top: 550px;
+    left: 2000px;
+}
+
+
+.text4 {
+    position: absolute;
+    font-family: bold;
+    font-size: 23px;
+    text-align: left;
+    top: 1250px;
+    left: 1200px;
+}
+
